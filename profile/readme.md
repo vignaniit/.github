@@ -11,6 +11,6 @@ We strive to create an inclusive and respectful environment. Please read our [Co
 | Feedback |  | [`vignaniit/feedback`](https://github.com/vignaniit/feedback) |
 | Talk |  | [`vignaniit/talk`](https://github.com/vignaniit/talk) |
 | Map |  | [`vignaniit/api`](https://github.com/vignaniit/map) |
-| Map |  | [`vignaniit/api`](https://github.com/vignaniit/api) |
+| Api |  | [`vignaniit/api`](https://github.com/vignaniit/api) |
 ### License
 All repositories are licensed under the [MIT License](https://github.com/vignaniit/.github/blob/main/license.md).
